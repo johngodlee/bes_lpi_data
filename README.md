@@ -1,7 +1,5 @@
-# Extracting a sample of the 2016 LPI public data
+# Extracting a sample of the 2016 Living Planet Index public data
 ## For use in the 2017 BES Annual Meeting Coding Club workshop
-### John Godlee (johngodlee@gmail.com)
-
 
 * `lpi_public.csv` is the raw data, downloaded from [here](https://figshare.com/articles/LPI_LPR2016data_public_csv/4300022/1), via the [`rlpi` R package](https://github.com/Zoological-Society-of-London/rlpi)
 
